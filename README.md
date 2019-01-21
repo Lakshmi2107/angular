@@ -1,5 +1,9 @@
 # Angularapp
 
+
+This simple angular app displays an image in the center with a title
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Development server
